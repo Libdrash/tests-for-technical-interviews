@@ -48,6 +48,23 @@ const orders = [
 ];
 ```
 
+```
+[
+  {
+    user: "Anna",
+    ordersCount: 2,
+    productsCount: 3,
+    totalSpent: 620,
+  },
+  {
+    user: "Ivan",
+    ordersCount: 1,
+    productsCount: 1,
+    totalSpent: 1200,
+  },
+]
+```
+
 ---
 
 ## Задача 2 — React + GraphQL + fetch
